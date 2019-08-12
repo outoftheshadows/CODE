@@ -1,5 +1,7 @@
-# CODE
-This is the code for binary search tree basic operations.
+# CODE  This is the code for binary search tree basic operations.
+
+
+
 #include<iostream>
 using namespace std;
 struct node* insert(struct node*,int );
